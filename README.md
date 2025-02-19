@@ -11,13 +11,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Grocery web application**
+- 🔭 I’m currently working on **PG web application**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on **backend project**
+- 👯 I’m looking to collaborate on **FullStack project**
 
-- 📫 How to reach me **dev.12092003@gmail.com**
+- 📫 How to reach me **devpatel12923@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
